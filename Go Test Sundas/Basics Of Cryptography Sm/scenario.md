@@ -2,7 +2,7 @@ title: Basics Of Cryptography Sm
 description: >-
   In cryptography we will explore how to scramble the data using a complex
   encryption algorithm.
-time: 25 minutes
+time: 20 minutes
 level: beginner
 steps:
   - step1.md
