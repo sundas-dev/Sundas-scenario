@@ -9,5 +9,5 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
-  - Basics of Cryptography SM
+  - Basics Of Cryptography Sm
 title: Go Test Sundas
